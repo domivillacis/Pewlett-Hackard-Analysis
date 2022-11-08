@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-I am collaborating on this analysis with Pewlette Hackard, a leading technology company, which has been in the market for many years but is currently undergoing a phase of personnel changes; the company has several thousand employees, many of whom are soon to retire.
+I am collaborating on this analysis with Pewlett Hackard, a leading technology company, which has been in the market for many years but is currently undergoing a phase of personnel changes; the company has several thousand employees, many of whom are soon to retire.
 
 Therefore, I will help Bobby, a HR analyst, find highly relevant data on how many employees are about to retire and how many new talents can be hired so that the company maintains its high quality and prestige and, above all, to ensure its future.
 
@@ -44,4 +44,24 @@ Finally, in our fourth table, the total number of employees who are eligible to 
 This result is very low compared to the number of people who are about to leave the company and the new ones who are going to be hired.
 
 <img width="770" alt="me_results" src="https://user-images.githubusercontent.com/112814924/200469896-fc2934f1-abed-4630-8918-91c08d09c2fd.png">
+
+## Summary
+
+The number of employees that are about to retire is alarming high. Pewlett Hackard will not be able to survive without so many employees, especially since the recruitment process takes time.
+
+One of the most important recommendations for the HR manager would be to invest in onboarding talent, either through an external recruitment agency or internally. Bear in mind that when the “silver tsunami” starts to hit, 72,458 roles will need to be filled as shown in the retiring titles table and, as mentioned above, time is a major constraint in the process.
+
+![](../../retirement.png)
+
+On the other hand, the number of retirement-ready employees eligible to mentor the next generation is very low compared to the total number of people leaving, and that's concerning because it can be a big disadvantage for the company.
+
+For this reason, one suggestion for the recruiting team is to create a temporary mentoring department (10 departments in total) that gives employees who are ready to retire the opportunity to work part-time as a mentor to new hires. This would be a mutual benefit, as they will continue to receive income, the company will maintain knowledge and the young people hired will develop faster thanks to the mentoring of the semi-retirees. 
+
+![](../../departments.png)
+
+## Resources
+
+Data source: CSV files on Data folder
+
+Software: SQL
 
