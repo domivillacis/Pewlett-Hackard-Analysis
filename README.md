@@ -21,13 +21,13 @@ According to our first table, there are 133,776 employees who were born between 
 
 However, if we look at the data, some employee names are repeated. This means that they may have changed jobs within the company or perhaps they no longer belong to it.
 
-IMAGE
+<img width="692" alt="rt_results" src="https://user-images.githubusercontent.com/112814924/200469802-19cc6f48-b40b-40bf-b5c7-fb271054f70c.png">
 
 ### 2.	Unique titles
 
 In our second table, we have removed all duplicates and kept the most recent job title for each employee. This has reduced the number of retiring employees to 72,658, which is a more realistic number but still a bit high for our analysis.
 
-IMAGE
+<img width="547" alt="ut_results" src="https://user-images.githubusercontent.com/112814924/200469842-cda4686b-180d-491f-a648-66e3b6564bf2.png">
 
 ### 3.	Retiring titles
 
@@ -35,11 +35,13 @@ In our third table, we have retrieved employees by their most recent position wh
 
 This data is very useful, especially for senior positions, since they are the ones with the largest number of employees about to retire. This is great news for engineers or staff members looking for a new opportunity to work in a senior position.
 
+<img width="557" alt="retiring_results" src="https://user-images.githubusercontent.com/112814924/200469869-78b5fa38-5bff-4b0f-b8c2-aa3f323997ee.png">
+
 ### 4.	Mentorship eligibility
 
 Finally, in our fourth table, the total number of employees who are eligible to participate in a mentorship program is 1,549.
 
 This result is very low compared to the number of people who are about to leave the company and the new ones who are going to be hired.
 
-IMAGE
+<img width="770" alt="me_results" src="https://user-images.githubusercontent.com/112814924/200469896-fc2934f1-abed-4630-8918-91c08d09c2fd.png">
 
