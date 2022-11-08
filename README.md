@@ -51,13 +51,13 @@ The number of employees that are about to retire is alarming high. Pewlett Hacka
 
 One of the most important recommendations for the HR manager would be to invest in onboarding talent, either through an external recruitment agency or internally. Bear in mind that when the “silver tsunami” starts to hit, 72,458 roles will need to be filled as shown in the retiring titles table and, as mentioned above, time is a major constraint in the process.
 
-![](../../retirement.png)
+<img width="350" alt="retirement" src="https://user-images.githubusercontent.com/112814924/200477087-8babebb9-6e75-4644-a898-be20e91851dd.png">
 
 On the other hand, the number of retirement-ready employees eligible to mentor the next generation is very low compared to the total number of people leaving, and that's concerning because it can be a big disadvantage for the company.
 
 For this reason, one suggestion for the recruiting team is to create a temporary mentoring department (10 departments in total) that gives employees who are ready to retire the opportunity to work part-time as a mentor to new hires. This would be a mutual benefit, as they will continue to receive income, the company will maintain knowledge and the young people hired will develop faster thanks to the mentoring of the semi-retirees. 
 
-![](../../departments.png)
+<img width="427" alt="departments" src="https://user-images.githubusercontent.com/112814924/200477108-5a3bbf88-344e-4158-bb21-c3d4fd3d0d40.png">
 
 ## Resources
 
