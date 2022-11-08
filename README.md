@@ -4,9 +4,9 @@
 
 I am collaborating on this analysis with Pewlette Hackard, a leading technology company, which has been in the market for many years but is currently undergoing a phase of personnel changes; the company has several thousand employees, many of whom are soon to retire.
 
-Therefore, I will help Bobby, an HR analyst, find highly relevant data on how many employees are about to retire and how many new talents can be hired so that the company maintains its high quality and prestige and, above all, to ensure its future.
+Therefore, I will help Bobby, a HR analyst, find highly relevant data on how many employees are about to retire and how many new talents can be hired so that the company maintains its high quality and prestige and, above all, to ensure its future.
 
-We are going to use SQL (Structure Query Language) for this project, which is a data query language that will allow us to organize, manipulate, manage and merge data storage in databases.
+We are going to use SQL (Structure Query Language) for this project, which is a data query language that will allow us to organize, manipulate, manage and merge data stored in databases.
 
 
 ## Results: 
@@ -19,7 +19,7 @@ These four tables will give us more clarity about the important decisions that t
 
 According to our first table, there are 133,776 employees who were born between 01-01-1952 and 12-31-1955 and who are about to retire. Of course, this figure is alarming, since the company could not survive without a large part of its employees.
 
-However, if we look at the data, some employee names are repeated. This means that they may have changed jobs within the company or perhaps they no longer belong to it.
+However, if we look closely at the data, some employee names are repeated. This means that they may have changed jobs within the company or perhaps they no longer belong to it.
 
 <img width="692" alt="rt_results" src="https://user-images.githubusercontent.com/112814924/200469802-19cc6f48-b40b-40bf-b5c7-fb271054f70c.png">
 
@@ -31,9 +31,9 @@ In our second table, we have removed all duplicates and kept the most recent job
 
 ### 3.	Retiring titles
 
-In our third table, we have retrieved employees by their most recent position who are about to retire, and with our results we now have a total count of employees by job title. 
+In our third table, we have retrieved employees by their most recent position who are about to retire, and with our results we now have a total count of employees by job title, 72,468 to be precise. 
 
-This data is very useful, especially for senior positions, since they are the ones with the largest number of employees about to retire. This is great news for engineers or staff members looking for a new opportunity to work in a senior position.
+This data is very useful, especially for senior positions, since those are the ones with the largest number of employees about to retire. This is great news for engineers or staff members looking for a new opportunity to work in a senior role.
 
 <img width="557" alt="retiring_results" src="https://user-images.githubusercontent.com/112814924/200469869-78b5fa38-5bff-4b0f-b8c2-aa3f323997ee.png">
 
