@@ -55,7 +55,7 @@ One of the most important recommendations for the HR manager would be to invest 
 
 On the other hand, the number of retirement-ready employees eligible to mentor the next generation is very low compared to the total number of people leaving, and that's concerning because it can be a big disadvantage for the company.
 
-For this reason, one suggestion for the recruiting team is to create a temporary mentoring department (10 departments in total) that gives employees who are ready to retire the opportunity to work part-time as a mentor to new hires. This would be a mutual benefit, as they will continue to receive income, the company will maintain knowledge and the young people hired will develop faster thanks to the mentoring of the semi-retirees. 
+For this reason, one suggestion for the recruiting team is to create a temporary mentoring department (10 departments in total) that will give employees who are ready to retire the opportunity to work part-time as a mentor to new hires. This would be a mutual benefit, as they will continue to receive income, the company will maintain knowledge and the young people hired will develop faster thanks to the mentoring of the semi-retirees. 
 
 <img width="427" alt="departments" src="https://user-images.githubusercontent.com/112814924/200477108-5a3bbf88-344e-4158-bb21-c3d4fd3d0d40.png">
 
