@@ -23,8 +23,23 @@ However, if we look at the data, some employee names are repeated. This means th
 
 IMAGE
 
-## 2.	Unique titles
+### 2.	Unique titles
 
 In our second table, we have removed all duplicates and kept the most recent job title for each employee. This has reduced the number of retiring employees to 72,658, which is a more realistic number but still a bit high for our analysis.
 
 IMAGE
+
+### 3.	Retiring titles
+
+In our third table, we have retrieved employees by their most recent position who are about to retire, and with our results we now have a total count of employees by job title. 
+
+This data is very useful, especially for senior positions, since they are the ones with the largest number of employees about to retire. This is great news for engineers or staff members looking for a new opportunity to work in a senior position.
+
+### 4.	Mentorship eligibility
+
+Finally, in our fourth table, the total number of employees who are eligible to participate in a mentorship program is 1,549.
+
+This result is very low compared to the number of people who are about to leave the company and the new ones who are going to be hired.
+
+IMAGE
+
